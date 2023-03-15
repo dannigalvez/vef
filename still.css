@@ -1,0 +1,19 @@
+.haus1{
+    background: plum;   /* breyti um bakgrunn */
+    color: red;         /* breyti stafalit  */
+    font-family: 'Courier New', Courier, monospace; /* breyti stafagerð */
+}
+
+.haus2{
+    background: lime;   /* breyti um bakgrunn */
+    color: yellow;         /* breyti stafalit  */
+    font-family:Arial, Helvetica, sans-serif /* breyti stafagerð */
+}
+
+.breytanafni{
+    color: blue;
+    font-size: 20px;
+}
+
+
+
